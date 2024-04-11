@@ -11,10 +11,10 @@ echo "STEP 1 of 10: Completed Packages Update"
 sudo apt -y install ocl-icd-opencl-dev > /dev/null 2>&1
 echo "STEP 2 of 10: Installed OpenCL"
 
-sudo apt -y install nano  > /dev/null 2>&1
+sudo apt -y install nano > /dev/null 2>&1
 echo "STEP 3 of 10: Installed Nano"
 
-sudo apt -y install cmake  > /dev/null 2>&1
+sudo apt -y install cmake > /dev/null 2>&1
 echo "STEP 4 of 10: Installed cMake"
 
 sudo apt -y install python3-pip > /dev/null 2>&1
